@@ -1,0 +1,6 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# BBS-side data files the program opens but that are not part of the source
+*.dat
